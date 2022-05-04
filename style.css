@@ -1,0 +1,58 @@
+.foto{
+    border-radius: 100px;
+    max-width: 200px;
+    border: 1px solid black;
+    float: right;
+}
+body{
+    width: 800px;
+    height: 950px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 1px solid darkcyan;
+}
+#nome{
+    margin: 0;
+    padding: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.dados{
+    font-size: 18px;
+    font-family: Cambria;
+    padding-left: 10px;
+    padding-bottom: 10px; 
+}
+.perfil{
+    font-size: 18px;
+    font-family: Cambria;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+#obj{
+  line-height: 1.6;
+}
+.formacao{
+    font-size: 18px;
+    font-family: Cambria;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.experiencia{
+    font-size: 18px;
+    font-family: Cambria;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+#area{
+    font-size: 20px;
+    font-family: Cambria;
+    padding-left: 20px;
+    font-style: italic;
+}
+#descr{
+    font-size: 18px;
+    font-family: Cambria;
+    line-height: 1.6;
+}
+
